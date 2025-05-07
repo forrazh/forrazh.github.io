@@ -1,7 +1,9 @@
 ---
 # the default layout is 'page'
+layout: compedoc
 icon: fas fa-graduation-cap
 order: 5
+output: true
 ---
 
 
@@ -17,4 +19,3 @@ order: 5
 
 > Personnel & Projets
 {: .prompt-warning }
-

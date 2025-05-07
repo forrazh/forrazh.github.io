@@ -1,0 +1,60 @@
+---
+layout: page
+---
+
+{% include lang.html %}
+
+<div class="project-page">
+  <!-- Image preview -->
+  {% if page.image %}
+    <div class="cover">
+      {% assign img_path = page.image.path | default: page.image | absolute_url | prepend: site.baseurl %}
+      {% assign img_alt = page.image.alt | default: 'Image Preview' %}
+      <img src="{{ img_path }}" alt="{{ img_alt }}" width="1200" height="630" class="lazyload">
+    </div>
+  {% endif %}
+  <!-- End image preview -->
+
+  <!-- <h1 class="project-title center">{{ page.title }}</h1> -->
+  
+  <div class="meta">
+    <!-- Project git link -->
+    <div class="meta-git">
+      <a href="{{ page.git.link }}">
+        <i class="fa-brands fa-git-alt"></i>
+        <em>Git link</em>
+      </a>
+    </div>
+
+    <!-- Project categories -->
+    <div class="meta-categories">
+    {% for category in page.categories %}
+      <em>{{ category }}{%- unless forloop.last -%},{%- endunless -%}</em>
+    {% endfor %}
+    </div>
+
+    <!-- Project year -->
+    <div class="meta-date">
+      <i class="far fa-calendar"></i>
+      <em>{{ page.year }}</em>
+    </div>
+  </div>
+
+  <div class="content">
+    {{ page.content }}
+  </div>
+
+  
+  {% if page.git.name and page.git.author %}
+    <div class="project-readme">
+      <div class="header"><span>README</span></div>
+      <div id="git_fetch_res"></div>
+    </div>
+    <script type="module">
+      import { GitHubLoader } from "/assets/js/load_git_info.js";
+      const gitHubLoader = new GitHubLoader();
+      const ghres = await gitHubLoader.load_readme({repo: "{{ page.git.name }}", user: "{{ page.git.author }}"});
+      document.querySelector("#git_fetch_res").innerHTML = ghres;
+    </script>
+  {% endif %}
+</div>
