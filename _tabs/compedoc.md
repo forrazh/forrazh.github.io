@@ -6,7 +6,7 @@ order: 5
 output: true
 ---
 
-Bienvenue sur la page crée dans le cadre du compedoc !
+Bienvenue sur la page créée dans le cadre du compedoc !
 
 Vous pouvez retrouver ici plusieurs projets sur lesquels j'ai travaillé durant mon master et depuis le début de ma thèse. 
 
