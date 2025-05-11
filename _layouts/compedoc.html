@@ -18,14 +18,15 @@ layout: page
   <h1 class="project-title center"> <i class="fas {{ page.icon }}"></i> {{ page.title }}</h1>
   
   <div class="meta">
-    <!-- Project git link -->
-    <div class="meta-git">
-      <a href="{{ page.git.link }}">
-        <i class="fa-brands fa-git-alt"></i>
-        <em>Git link</em>
-      </a>
-    </div>
-
+    {% if page.git %}
+      <!-- Project git link -->
+      <div class="meta-git">
+        <a href="{{ page.git.link }}">
+          <i class="fa-brands fa-git-alt"></i>
+          <em>Git link</em>
+        </a>
+      </div>
+    {% endif %}
     <!-- Project categories -->
     <div class="meta-categories">
     {% for category in page.categories %}
