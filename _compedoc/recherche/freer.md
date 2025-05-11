@@ -1,3 +1,19 @@
+---
+title: Monade Libre
+icon: fa-graduation-cap
+year: 2023
+order: 9
+author: Hugo Forraz
+categories: [Recherche, Enseignement]
+tag: [recherche, freer, enseignement, these]
+meta_skills: [apprentissage, adaptabilité] 
+transf_skills: [Communication écrite, Communication Orale, Pedagogie, Management, Veille,  Langues, Informatique]
+qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
+scientific_expertise: Pluridisciplinaire
+social_skills: [curiosité, relationnel, confiance en soi]
+transv_skills: [Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Elaborer des solutions, Esprit critique]
+---
+
 ## Projet sur la monade libre
 
 Repo : [PRIVÉ]

@@ -1,6 +1,30 @@
-## Participation à Exolegends
+---
+title: Exolegend
+icon: fa-laptop-code
+year: 2023-2025
+order: 6
+author: [Hugo Forraz, Lucas Zanardo]
+categories: [Projet, Hackaton]
+tag: [cpp, iot, projet, hackaton, robots]
+git: 
+    author: Louvvt
+    name: Exolegend
+    link: https://gitlab.com/Louvtt/exolegend
+meta_skills: [adaptabilité] 
+transf_skills: [Planification, Management, Informatique]
+qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
+scientific_expertise: Monodisciplinaire 
+social_skills: [curiosité, relationnel, persévérance, confiance en soi]
+transv_skills: [Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Elaborer des solutions, Esprit critique]
+---
 
-Repo : [PRIVÉ]
+L'entreprise Exotec organise chaque année depuis 2022 un hackaton s'appelant "Exolegend". L'objectif est de réussir en un peu moins de 72h à coder des robots qui vont par la suite s'affronter dans une arène.
+Avec Lucas Zanardo, nous y avons participé chaque année depuis la première édition et avons pris beaucoup de plaisir à y participer à chaque occurence de l'évènement, et ce malgré nos profils assez atypiques par rapport au reste des concurrents. Nous avons tous les deux un profil plutot orienté développement alors que beaucoup des autres participants ont plutôt des connaissances en systèmes embarqués, et lors de la dernière année en IA.
+
+En ayant un profil orienté développement, il est assez intéressant et neuf d'avoir un retour de ce que notre code fait dans le monde réel, expérience que l'on a vraiment pu avoir avec cette compétition. C'est derriere celle ci qui m'a confirmé il y a quelques années l'envie de travailler dans un domaine qui en soit proche et qui explique tout l'aspect IoT auquel ma thèse se raccroche.
+
+
+<!-- ## Participation à Exolegends
 
 ### Description de l’activité
 
@@ -29,4 +53,4 @@ Qu’est-ce qui vous a posé difficulté ? Que n’avez-vous pas aimé ? :
 - Gérer l'accumulation de fatigue qui arrive petit à petit au cours des 60h
 - Le coéquipier qui n'aide pas à avancer sur le projet et viens juste nous retarder sur les avancées
 
-Que changeriez-vous si vous deviez recommencer ? : Le fait de vouloir démarrer directement avec les étapes compliquées avant de s'occuper des versions plus simples nous a posé beaucoup de problèmes, on va changer ça pour la prochaine édition (6 mars) et y aller incrémentalement
+Que changeriez-vous si vous deviez recommencer ? : Le fait de vouloir démarrer directement avec les étapes compliquées avant de s'occuper des versions plus simples nous a posé beaucoup de problèmes, on va changer ça pour la prochaine édition (6 mars) et y aller incrémentalement -->

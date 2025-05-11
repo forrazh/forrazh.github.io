@@ -1,6 +1,27 @@
+---
+title: Triangulation par WiFi
+icon: fa-book 
+year: 2024
+order: 3
+author: [Gaylor Doisy, Hugo Forraz, Maximilien Weinmann ]
+categories: [Projets, Cours]
+tag: [rust, cours, iot, networking]
+git: 
+    author: forrazh
+    name: wifi-triangulation
+    link: https://gitlab.com/forrazh/wifi-triangulation
+meta_skills: [apprentissage, adaptabilité] 
+transf_skills: [Communication Orale, Planification, Langues, Informatique]
+qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
+scientific_expertise: Monodisciplinaire
+social_skills: [curiosité, persévérance, confiance en soi]
+transv_skills: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Formuler un problème, Elaborer des solutions]
+
+---
+
 ## Projet de triangulation par WiFi
 
-Repo : https://gitlab.com/forrazh/wifi-triangulation
+Repo : 
 ### Description de l’activité
 
 Contexte dans lequel vous avez exercé cette activité (entreprise, institution, association, secteur, taille, etc.) : Académique

@@ -1,3 +1,19 @@
+---
+title: Présentation de mon sujet de thèse à IKS
+icon: fa-graduation-cap
+year: 2024
+order: 2
+author: Hugo Forraz
+categories: [Conference, Enseignement]
+tag: [formal methods, iot, conf]
+meta_skills: [adaptabilité] 
+transf_skills: [Communication Orale, Pedagogie, Valorisation, Langues]
+qualities: [autonomie, rigueur, créativité, force de persuasion, ouverture d'esprit]
+scientific_expertise: Pluridisciplinaire
+social_skills: [relationnel, persévérance, confiance en soi]
+transv_skills: [Remise en question, Capacité d'analyse, Capacité de synthèse, Formuler un problème, Esprit critique, Reseau]
+---
+
 ## Presentation sur les methodes formelles
 
 Pdf : `Iot Security & Formal methods 101.pdf`

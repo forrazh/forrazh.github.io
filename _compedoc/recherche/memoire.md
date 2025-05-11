@@ -1,3 +1,24 @@
+---
+title: Memoire de recherche
+icon: fa-book 
+year: 2022-2024
+order: 11
+author: Hugo Forraz
+categories: [Recherche, Cours]
+tag: [recherche, projects, cours, state-of-the-art, iot, cybersecurite, anglais]
+comp-label: prompt-tip
+git: 
+    author: Hugo Forraz
+    name: master's thesis
+    link: https://gitlab.com/forrazh/master-s-thesis
+meta_skills: [apprentissage, adaptabilité] 
+transf_skills: [Communication écrite, Pedagogie, Planification, Veille, Langues, Informatique]
+qualities: [autonomie, rigueur, ouverture d'esprit]
+scientific_expertise: Pluridisciplinaire
+social_skills: [curiosité, persévérance, confiance en soi]
+transv_skills: [Remise en question, Capacité d'analyse, Capacité de synthèse, Formuler un problème, Esprit critique]
+---
+
 ## Mémoire de recherche
 
 Pdf : master-thesis-hf-final.pdf

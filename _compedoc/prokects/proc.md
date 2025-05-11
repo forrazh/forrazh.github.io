@@ -1,6 +1,25 @@
+---
+title: Processeur 
+icon: fa-book 
+year: 2023-2024
+order: 4
+author: Hugo Forraz
+categories: [Projet, Cours]
+tag: [vhdl, projects, cours, iot]
+git: 
+    author: Hugo Forraz
+    name: master-hardware-courses
+    link: https://gitlab.com/forrazh/master-hardware-courses/
+meta_skills: [apprentissage] 
+transf_skills: [Veille, Langues, Informatique]
+qualities: [autonomie, rigueur]
+scientific_expertise: Monodisciplinaire 
+social_skills: [curiosité]
+transv_skills: [Capacité d'analyse, Elaborer des solutions]
+---
 ## Calcul de PI sur du hardware
 
-Repo : https://gitlab.com/forrazh/master-hardware-courses/-/tree/main?ref_type=heads
+Repo : 
 
 ### Description de l’activité
 
