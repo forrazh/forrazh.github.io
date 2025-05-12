@@ -14,34 +14,13 @@ social_skills: [curiosité, relationnel, confiance en soi]
 transv_skills: [Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Elaborer des solutions, Esprit critique]
 ---
 
-## Projet sur la monade libre
+Dans le cadre de ma thèse, j'ai beaucoup exploré le domaine de la **Free Monad** (ou "monade libre" en français). C'est le sujet principal abordé au cours de ma thèse. J'ai passé plusieurs semaines avec mon co-encadrant à lire les papiers du domaine et essayer de comprendre comment ça fonctionne et comment on pourra faire le lien avec les thématiques de mon sujet de thèse.
 
-Repo : [PRIVÉ]
+Au début, on s'est aussi servis de ce mini projet pour que je puisse prendre en main l'<u>assistant de preuve <b>Coq</b></u>. À force de faire évoluer ce mini-projet. Mon directeur de thèse m'a proposé de **collaborer avec des étudiants** venant faire leur stage dans notre équipe afin d'avancer de manière un peu plus étendue dans les différentes collaborations scientifiques faisables, j'ai donc fait évoluer ce projet afin d'arriver à un cours pour les différents étudiants qui passeraient par là au cours de ma thèse. 
 
-### Description de l’activité
+L'intéret de développer moi même un cours/tutoriel pour les différents étudiants (en projet ou stagiaires) est aussi de me former sur l'aspect **pédagogique et transmission de connaissances**. Le cours a été développé en même temps que le premier étudiant présent le suivait. Grâce à lui, j'ai assez vite pu trouver des points de faiblesses dans mes explications que j'ai pu oublier lors de mon premier développement. 
 
-Contexte dans lequel vous avez exercé cette activité (entreprise, institution, association, secteur, taille, etc.) : Acadèmique
+> L'intérêt de développer ce cours, plutot que de former l'étudiant en face à face, est aussi d'avoir un tutoriel pour la librairie que l'on va petit à petit designer au cours de l'avancée de ma thèse.
+{: .prompt-tip }
 
-Dans quel but avez-vous exercé cette activité ? : Me mettre au niveau permettant de comprendre l'état de l'art
-
-Décrivez de façon détaillée cette activité (il ne s’agit pas de décrire ce que vous auriez dû faire mais ce que vous avez fait réellement) : Exercices donnés par mon co-encadrant de thèse afin de comprendre comment fonctionne l'état de l'art de la thématique sur laquelle je travaille actuellement dans ma these. Ces exercices permettent aussi d'apprendre à beaucoup mieux se servir de l'assistant de preuve Coq.
-
-Moyens (matériels, financiers, humains), outils, instruments, procédures, méthodes, techniques utilisés: 
-- materiel : ordinateur, état de l'art réalisé par moi meme en amont, assistant de preuve Coq
-- humain : co-encadrant de these + post doctorant de l'equipe me guidant sur les aspects techniques que je peux manquer
-
-Pouvez-vous expliquer une situation-problème que vous avez eu à résoudre et la manière dont vous avez procédé ? Sujet trop neuf pour en expliquer une.
-
-
-### Auto-évaluation
-
-Qu’avez-vous particulièrement réussi ? Qu’avez-vous aimé ? : 
-- integrer des concepts que je ne connaissais pas du tout il y a quelques semaines
-- rattraper assez vite les wagons sur comment fonctionne ce que je veux faire
-- préparer ma collaboration avec un laboratoire étranger
-
-Qu’est-ce qui vous a posé difficulté ? Que n’avez-vous pas aimé ? : 
-- Mon manque de connaissances de l'outil Coq
-
-Que changeriez-vous si vous deviez recommencer ? : Rien
-
+À ce jour, ce projet évolue encore grâce à cet étudiant étant donné que l'on écrit un **papier** qui sera présenté en **conférence** à la fin mai.
