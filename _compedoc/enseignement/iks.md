@@ -14,36 +14,23 @@ social_skills: [relationnel, persévérance, confiance en soi]
 transv_skills: [Remise en question, Capacité d'analyse, Capacité de synthèse, Formuler un problème, Esprit critique, Reseau]
 ---
 
-## Presentation sur les methodes formelles
+Afin de me préparer au fait de présenter en anglais devant de grands groupes et aussi de me préparer à un oral ayant un aspect pédagogique, Pr. Marc Lefranc ainsi que mon directeur de thèse m'ont invité à présenter les domaines de mon sujet de thèse lors des [IKS days](https://ADD_LINK.com). Vous pouvez en retrouver [les slides ici](../../assets/pdfs/documents-competence-compedoc-forrazh/IoT%20Security%20&%20Formal%20methods%20101.pdf).
 
-Pdf : `Iot Security & Formal methods 101.pdf`
+Pour cette présentation, je suis donc parti du titre de mon sujet de thèse : "**Méthodes formelles pour la vérification de logiciels distribués allant du cloud jusque l'IoT**" afin d'expliciter pourquoi ma thèse et les domaines auxquels elle touche sont cruciaux.
 
-### Description de l’activité
+La présentation durait 30 minutes et devait permettre à un public assez éclectique de plus de 100 personnes d'en comprendre les tenants et aboutissants.
 
-Contexte dans lequel vous avez exercé cette activité (entreprise, institution, association, secteur, taille, etc.) : Academique
+> Le public était globalement composé d'étudiants de master allant de la philosophie à la nanotechnologie, en passant par des sciences cognitives ou des mathématiques fondamentales.
+{: .prompt-info }
 
-Dans quel but avez-vous exercé cette activité ? : Presentation à une conférence
+La présentation était composée de 4 parties :
+- C'est quoi l'**IoT** ? À quel point c'est **omniprésent** ?
+- Pourquoi la **sécurité** de ces systèmes est aussi **importante** ?
+- Qu'est ce que sont que les **méthodes formelles** ?
+- Créer du lien entre ces 3 points
 
-Décrivez de façon détaillée cette activité (il ne s’agit pas de décrire ce que vous auriez dû faire mais ce que vous avez fait réellement) : Préparation d'un cours très basique de 30 minutes en anglais afin de présenter les domaines de ma thèse à un public très éclectique.
+Cette présentation a suivi un fil rouge à l'aide d'une histoire. L'appareil connecté qui nous a le plus suivi était une voiture qui nous a permis d'expliciter le lien final avec les méthodes formelles et leur nécessité.
 
-Moyens (matériels, financiers, humains), outils, instruments, procédures, méthodes, techniques utilisés: 
-- materiels : canva
-- financiers : salaire
-- humains : discussions avec mes encadrants de these sur la façon d'aborder les differents sujets. Repetition avec une amie en master d'anglais afin de s'assurer de la justeté de la prononciation, du propos et de la vulgarisation
+Lors de cette présentation, j'ai aussi eu à apprendre comment gérer un stress assez soudain et fort en direct, j'ai malheureusement oublié une slide dans mon développement et j'ai du trouver une pirouette pour me remettre en selle correctement.
 
-Pouvez-vous expliquer une situation-problème que vous avez eu à résoudre et la manière dont vous avez procédé ? 
-Oublier la présence d'une slide sur la partie que je connaissais le moins ce qui m'a fait perdre mes moyens sur scene.
-Respirer et reprendre mon propos m'ont permis de revenir cependant le stress engendré a été très dur à vivre sur l'instant
-
-### Auto-évaluation
-Qu’avez-vous particulièrement réussi ? Qu’avez-vous aimé ? : 
-- Reussir à expliquer la premiere partie de mon domaine au travers d'une histoire 
-- Garder un fil rouge tout au long des 3 parties (voiture)
-- Presenter sans notes
-
-Qu’est-ce qui vous a posé difficulté ? Que n’avez-vous pas aimé ? : 
-- Oublier une slide
-- Reussir a vulgariser un domaine dans lequel je venais d'arriver (les methodes formelles) pour reussir à en decrire les besoins et enjeux sans me perdre en explications tout le temps
-- Le stress que j'ai pu m'imposer tout seul avant, pendant et après la présentation
-
-Que changeriez-vous si vous deviez recommencer ? : Le nombre de répétitions. Je n'en ai clairement pas fait assez (3 completes).
+Cette présentation m'a confirmé que j'avais encore beaucoup de travail à faire pour arriver à la finalité dont j'ai envie pour ma thèse, ce qui m'a permis de trouver un point de départ concret pour mon évolution du point de vue des conférences et autres présentations qui seraient nécessaires pour une thèse académique.
