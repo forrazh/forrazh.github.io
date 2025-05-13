@@ -1,8 +1,8 @@
 ---
 title: Présentation de mon sujet de thèse à IKS
 icon: fa-graduation-cap
-year: 2024
-order: 2
+year: oct 2024
+order: 4
 author: Hugo Forraz
 categories: [Conference, Enseignement]
 tag: [formal methods, iot, conf]

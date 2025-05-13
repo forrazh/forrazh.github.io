@@ -1,8 +1,8 @@
 ---
 title: Triangulation par WiFi
 icon: fa-book 
-year: 2024
-order: 3
+year: mar 2024
+order: 9
 author: [Gaylor Doisy, Hugo Forraz, Maximilien Weinmann ]
 categories: [Projets, Cours]
 tag: [rust, cours, iot, networking]

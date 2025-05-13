@@ -1,8 +1,8 @@
 ---
 title: Memoire de recherche
 icon: fa-book 
-year: 2022-2024
-order: 11
+year: sep 2022 - avr 2024
+order: 7
 author: Hugo Forraz
 categories: [Recherche, Cours]
 tag: [recherche, projects, cours, state-of-the-art, iot, cybersecurite, anglais]

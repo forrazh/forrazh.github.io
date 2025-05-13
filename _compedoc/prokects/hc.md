@@ -1,8 +1,8 @@
 ---
 title: Développement d'un agent de conformité de poste
 icon: fa-building
-year: 2023-2024
-order: 5
+year: juin 2023 - aou 2024
+order: 6
 author: Hugo Forraz
 categories: [Projet, Entreprise, CyberSec, Rust]
 meta_skills: [apprentissage, adaptabilité] 

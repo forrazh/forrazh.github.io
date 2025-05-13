@@ -1,8 +1,8 @@
 ---
 title: Cours d'Architecture des Systemes d'exploitation Avancé
 icon: fa-graduation-cap
-year: 2025
-order: 1
+year: avr 2025 - mai 2025
+order: 2
 author: [Gilles Grimaud]
 categories: [Cours, Enseignement]
 tag: [c, kernel, teaching]

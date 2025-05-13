@@ -1,8 +1,8 @@
 ---
 title: Monade Libre
 icon: fa-graduation-cap
-year: 2023
-order: 9
+year: fev 2025 - now
+order: 1
 author: Hugo Forraz
 categories: [Recherche, Enseignement]
 tag: [recherche, freer, enseignement, these]

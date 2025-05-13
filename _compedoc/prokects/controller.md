@@ -1,8 +1,8 @@
 ---
 title: Oxyded metal game controller
 icon: fa-book 
-year: 2023
-order: 7
+year: avr 2023
+order: 10
 author: Hugo Forraz
 categories: [Projet, Cours]
 tag: [rust, projects, embassy, cours]

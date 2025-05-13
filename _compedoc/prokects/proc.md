@@ -1,9 +1,9 @@
 ---
-title: Processeur 
+title: Accélérateur matériel pour calcul de Pi
 icon: fa-book 
-year: 2023-2024
-order: 4
-author: Hugo Forraz
+year: feb 2024 - mar 2024
+order: 8
+author: [Gaylor Doisy, Hugo Forraz]
 categories: [Projet, Cours]
 tag: [vhdl, projects, cours, iot]
 git: 
