@@ -2,7 +2,7 @@
 title: Exolegend
 icon: fa-laptop-code
 year: 2023-2025
-order: 5
+order: 3
 author: [Hugo Forraz, Lucas Zanardo]
 categories: [Projet, Hackaton]
 tag: [cpp, iot, projet, hackaton, robots]

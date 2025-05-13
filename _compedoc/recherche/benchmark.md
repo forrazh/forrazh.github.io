@@ -2,7 +2,7 @@
 title: Tests de performances d'un projet de recherche
 icon: fa-graduation-cap
 year: jan 2025
-order: 3
+order: 4
 author: [Frederic Fort, Hugo Forraz, Gilles Grimaud]
 categories: [Recherche, Papier]
 tag: [c, iot, pip, xipfs]
