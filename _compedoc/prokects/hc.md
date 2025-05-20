@@ -5,12 +5,12 @@ year: juin 2023 - aou 2024
 order: 6
 author: Hugo Forraz
 categories: [Projet, Entreprise, CyberSec, Rust]
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication écrite, Communication Orale, Veille, Informatique]
-qualities: [autonomie, rigueur]
-scientific_expertise: Monodisciplinaire
-social_skills: curiosité
-transv_skills: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Elaborer des solutions, Esprit critique]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication écrite, Communication Orale, Veille, Informatique]
+qualités: [Autonomie, Rigueur]
+expertise_scientifique: Monodisciplinaire
+compétences_sociales: Curiosité
+compétences_transférables: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Élaborer des solutions, Esprit critique]
 ---
 
 
@@ -26,7 +26,7 @@ Dans le cadre de ce projet, j'ai pu réaliser 3 grosses contributions :
 
 Lors de cette alternance j'ai eu à collaborer principalement avec une personne pour toute la partie code tout en étant dirigés par 3 autres. 
 
-Lors de cette alternance et de ses différents projet, j'ai eu besoin de travailler en autonomie, être capable de m'adapter à une multitude de situtations, savoir reconnaitre des besoins clients (joués par le CTO de l'entreprise) et apprendre de nouvelles compétences en un temps assez court sur une assez grande variété de sujets tout en étant capable de retransmettre ces connaissances, que ça soit d'un point de vue technique ou au contraire, d'un point de vue problématique. Ce dernier point est particulièrement mis en avant par mon [mémoire d'alternance](../../assets/pdfs/documents-competence-compedoc-forrazh/MémoireAlternanceHF.pdf).
+Lors de cette alternance et de ses différents projet, j'ai eu besoin de travailler en Autonomie, être capable de m'adapter à une multitude de situtations, savoir reconnaitre des besoins clients (joués par le CTO de l'entreprise) et apprendre de nouvelles compétences en un temps assez court sur une assez grande variété de sujets tout en étant capable de retransmettre ces connaissances, que ça soit d'un point de vue technique ou au contraire, d'un point de vue problématique. Ce dernier point est particulièrement mis en avant par mon [mémoire d'alternance](../../assets/pdfs/documents-competence-compedoc-forrazh/MémoireAlternanceHF.pdf).
 
 Cette expérience professionnelle m'aura aussi permis de travailler sur un projet ayant du sens pour moi avec un environnement technique que je trouvais assez amusant et intéressant. Lors de cette alternance, j'ai aussi pu évoluer dans un cadre assez rigoureux ayant permis de me préparer à partir en thèse serein.
 

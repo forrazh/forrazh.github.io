@@ -11,12 +11,12 @@ git:
     name: Oxyded metal game controller
     link: https://gitlab.com/forrazh/oxyded-metal-game-controller
 
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication écrite, Planification, Veille, Valorisation, Informatique]
-qualities: [autonomie, rigueur, créativité]
-scientific_expertise: Monodisciplinaire 
-social_skills: [curiosité,  persévérance]
-transv_skills: [Remise en question, Capacité d'analyse, Capacité d'innovation, Formuler un problème, Elaborer des solutions, Esprit critique]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication écrite, Planification, Veille, Valorisation, Informatique]
+qualités: [Autonomie, Rigueur, Créativité]
+expertise_scientifique: Monodisciplinaire 
+compétences_sociales: [Curiosité,  Persévérance]
+compétences_transférables: [Remise en question, Capacité d'analyse, Capacité d'innovation, Formuler un problème, Élaborer des solutions, Esprit critique]
 ---
 
 Le master informatique à Lille a une UE projet à valider chaque année lorsque l'on n'est pas alternant. Pour cette UE, nous avons la possibilité de proposer notre propre projet. 

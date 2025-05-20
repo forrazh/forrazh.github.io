@@ -10,12 +10,12 @@ git:
     author: Louvvt
     name: Exolegend
     link: https://gitlab.com/Louvtt/exolegend
-meta_skills: [adaptabilité] 
-transf_skills: [Planification, Management, Informatique]
-qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
-scientific_expertise: Monodisciplinaire 
-social_skills: [curiosité, relationnel, persévérance, confiance en soi]
-transv_skills: [Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Elaborer des solutions, Esprit critique]
+meta_compétences: [Adaptabilité] 
+compétences_transférables: [Planification, Management, Informatique]
+qualités: [Autonomie, Rigueur, Créativité, Ouverture d'esprit]
+expertise_scientifique: Monodisciplinaire 
+compétences_sociales: [Curiosité, Relationnel, Persévérance, Confiance en soi]
+compétences_transférables: [Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Élaborer des solutions, Esprit critique]
 ---
 
 L'entreprise Exotec organise chaque année depuis 2022 un hackaton s'appelant "Exolegend". L'objectif est de réussir en un peu moins de 72h à coder des robots qui vont par la suite s'affronter dans une arène.

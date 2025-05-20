@@ -6,12 +6,12 @@ order: 2
 author: [Gilles Grimaud]
 categories: [Cours, Enseignement]
 tag: [c, kernel, teaching]
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication Orale, Planification, Pedagogie, Valorisation,]
-qualities: [force de persuasion, ouverture d'esprit]
-scientific_expertise: Monodisciplinaire 
-social_skills: [curiosité, relationnel, confiance en soi]
-transv_skills: [Remise en question, Capacité d'analyse, Capacité de synthèse, Esprit critique]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication Orale, Planification, Pédagogie, Valorisation,]
+qualités: [Force de persuasion, Ouverture d'esprit]
+expertise_scientifique: Monodisciplinaire 
+compétences_sociales: [Curiosité, Relationnel, Confiance en soi]
+compétences_transférables: [Remise en question, Capacité d'analyse, Capacité de synthèse, Esprit critique]
 ---
 
 Dans le cadre de ma thèse, mon directeur de thèse m'a proposé d'encadrer un TP de master. Le cours donné est sur le mécanisme permettant de gérer la mémoire sur un ordinateur moderne, la MMU (*Memory Management Unit* ou "Unité de Gestion de la Mémoire" en français). Ce cours est le cours que j'avais trouvé assez compliqué à aborder pendant que j'étais en master et j'avais donc un peu d'appréhension avant de le démarrer, surtout en tant que premier cours.

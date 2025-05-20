@@ -10,12 +10,12 @@ git:
     author: Hugo Forraz
     name: master-hardware-courses
     link: https://gitlab.com/forrazh/master-hardware-courses/
-meta_skills: [apprentissage] 
-transf_skills: [Veille, Langues, Informatique]
-qualities: [autonomie, rigueur]
-scientific_expertise: Monodisciplinaire 
-social_skills: [curiosité]
-transv_skills: [Capacité d'analyse, Elaborer des solutions]
+meta_compétences: [Apprentissage] 
+compétences_transférables: [Veille, Langues, Informatique]
+qualités: [Autonomie, Rigueur]
+expertise_scientifique: Monodisciplinaire 
+compétences_sociales: [Curiosité]
+compétences_transférables: [Capacité d'analyse, Élaborer des solutions]
 ---
 
 Dans le cadre du master IoT, nous avons suivi des cours de **Hardware Design** où l'on a appris comment "programmer" un processeur. Ce module était composé de 2 cours durant chacun 24h. Lors du deuxième, nous avons développé un processeur en **VHDL** avec une accélération matérielle afin de faire le calcul du nombre PI à l'aide de la méthode **Monte-Carlo**.

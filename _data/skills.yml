@@ -1,0 +1,123 @@
+- title: Apprentissage
+  type: meta_compétences
+  color: "#2e3987"
+
+- title: Adaptabilité
+  type: meta_compétences
+  color: "#2e3987"
+
+- title: Communication écrite
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Communication Orale
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Pédagogie
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Planification
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Management
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Veille
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Valorisation
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Langues
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Informatique
+  type: compétences_transférables
+  color: "#4c9fdc"
+
+- title: Autonomie
+  type: qualités
+  color: "#d62728"
+
+- title: Rigueur
+  type: qualités
+  color: "#d62728"
+
+- title: Créativité
+  type: qualités
+  color: "#d62728"
+
+- title: Force de persuasion
+  type: qualités
+  color: "#d62728"
+
+- title: Ouverture d'esprit
+  type: qualités
+  color: "#d62728"
+
+- title: Monodisciplinaire
+  type: expertise_scientifique
+  color: "#802077"
+
+- title: Pluridisciplinaire
+  type: expertise_scientifique
+  color: "#802077"
+
+- title: Curiosité
+  type: compétences_sociales
+  color: "#61318b"
+
+- title: Relationnel
+  type: compétences_sociales
+  color: "#61318b"
+
+- title: Persévérance
+  type: compétences_sociales
+  color: "#61318b"
+
+- title: Confiance en soi
+  type: compétences_sociales
+  color: "#61318b"
+
+- title: Remise en question
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Travailler en équipe
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Capacité d'analyse
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Capacité d'innovation
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Capacité de synthèse
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Formuler un problème
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Élaborer des solutions
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Esprit critique
+  type: compétences_transférables
+  color: "#e00f84"
+
+- title: Réseau
+  type: compétences_transférables
+  color: "#e00f84"

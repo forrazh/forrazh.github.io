@@ -10,12 +10,12 @@ git:
     author: forrazh
     name: wifi-triangulation
     link: https://gitlab.com/forrazh/wifi-triangulation
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication Orale, Planification, Langues, Informatique]
-qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
-scientific_expertise: Monodisciplinaire
-social_skills: [curiosité, persévérance, confiance en soi]
-transv_skills: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Formuler un problème, Elaborer des solutions]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication Orale, Planification, Langues, Informatique]
+qualités: [Autonomie, Rigueur, Créativité, Ouverture d'esprit]
+expertise_scientifique: Monodisciplinaire
+compétences_sociales: [Curiosité, Persévérance, Confiance en soi]
+compétences_transférables: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Formuler un problème, Élaborer des solutions]
 ---
 
 Dans le cadre de mon master, nous avons suivi un cours sur les **réseaux de capteurs**, qui est une thématique assez importante pour l'IoT. Dans les objectifs de ce cours, nous devions réaliser un projet libre en groupe.

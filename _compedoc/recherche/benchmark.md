@@ -6,12 +6,12 @@ order: 4
 author: [Frederic Fort, Hugo Forraz, Gilles Grimaud]
 categories: [Recherche, Papier]
 tag: [c, iot, pip, xipfs]
-meta_skills: [apprentissage] 
-transf_skills: [Communication écrite, Valorisation, Langues, Informatique]
-qualities: [autonomie, rigueur, force de persuasion]
-scientific_expertise: Monodisciplinaire 
-social_skills: curiosité
-transv_skills: [Travailler en équipe, Capacité d'analyse, Capacité de synthèse]
+meta_compétences: [Apprentissage] 
+compétences_transférables: [Communication écrite, Valorisation, Langues, Informatique]
+qualités: [Autonomie, Rigueur, Force de persuasion]
+expertise_scientifique: Monodisciplinaire 
+compétences_sociales: Curiosité
+compétences_transférables: [Travailler en équipe, Capacité d'analyse, Capacité de synthèse]
 ---
 
 Dans le cadre de la rédaction d'un papier de recherche avec mon équipe, j'ai contribué à analyser le projet sur lequel on avait travaillé ces 3 dernières années afin de donner des résultats qualitatifs de ce que l'on a pu développer.

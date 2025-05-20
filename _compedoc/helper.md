@@ -1,6 +1,6 @@
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication écrite, Communication Orale, Pedagogie, Planification, Management, Veille, Valorisation, Langues, Informatique]
-qualities: [autonomie, rigueur, créativité, force de persuasion, ouverture d'esprit]
-scientific_expertise: Monodisciplinaire Pluridisciplinaire
-social_skills: [curiosité, relationnel, persévérance, confiance en soi]
-transv_skills: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Elaborer des solutions, Esprit critique, Reseau]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication écrite, Communication Orale, Pédagogie, Planification, Management, Veille, Valorisation, Langues, Informatique]
+qualités: [Autonomie, Rigueur, Créativité, Force de persuasion, Ouverture d'esprit]
+expertise_scientifique: Monodisciplinaire Pluridisciplinaire
+compétences_sociales: [Curiosité, Relationnel, Persévérance, Confiance en soi]
+compétences_transférables: [Remise en question, Travailler en équipe, Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Élaborer des solutions, Esprit critique, Reseau]

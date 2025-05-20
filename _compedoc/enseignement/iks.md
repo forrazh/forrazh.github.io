@@ -6,12 +6,12 @@ order: 5
 author: Hugo Forraz
 categories: [Conference, Enseignement]
 tag: [formal methods, iot, conf]
-meta_skills: [adaptabilité] 
-transf_skills: [Communication Orale, Pedagogie, Valorisation, Langues]
-qualities: [autonomie, rigueur, créativité, force de persuasion, ouverture d'esprit]
-scientific_expertise: Pluridisciplinaire
-social_skills: [relationnel, persévérance, confiance en soi]
-transv_skills: [Remise en question, Capacité d'analyse, Capacité de synthèse, Formuler un problème, Esprit critique, Reseau]
+meta_compétences: [Adaptabilité] 
+compétences_transférables: [Communication Orale, Pédagogie, Valorisation, Langues]
+qualités: [Autonomie, Rigueur, Créativité, Force de persuasion, Ouverture d'esprit]
+expertise_scientifique: Pluridisciplinaire
+compétences_sociales: [Relationnel, Persévérance, Confiance en soi]
+compétences_transférables: [Remise en question, Capacité d'analyse, Capacité de synthèse, Formuler un problème, Esprit critique, Réseau]
 ---
 
 Afin de me préparer au fait de présenter en anglais devant de grands groupes et aussi de me préparer à un oral ayant un aspect pédagogique, Pr. Marc Lefranc ainsi que mon directeur de thèse m'ont invité à présenter les domaines de mon sujet de thèse lors des [IKS days](https://ADD_LINK.com). Vous pouvez en retrouver [les slides ici](../../assets/pdfs/documents-competence-compedoc-forrazh/IoT%20Security%20&%20Formal%20methods%20101.pdf).

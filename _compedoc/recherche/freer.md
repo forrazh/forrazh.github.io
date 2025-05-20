@@ -6,17 +6,17 @@ order: 1
 author: Hugo Forraz
 categories: [Recherche, Enseignement]
 tag: [recherche, freer, enseignement, these]
-meta_skills: [apprentissage, adaptabilité] 
-transf_skills: [Communication écrite, Communication Orale, Pedagogie, Management, Veille,  Langues, Informatique]
-qualities: [autonomie, rigueur, créativité, ouverture d'esprit]
-scientific_expertise: Pluridisciplinaire
-social_skills: [curiosité, relationnel, confiance en soi]
-transv_skills: [Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Elaborer des solutions, Esprit critique]
+meta_compétences: [Apprentissage, Adaptabilité] 
+compétences_transférables: [Communication écrite, Communication Orale, Pédagogie, Management, Veille,  Langues, Informatique]
+qualités: [Autonomie, Rigueur, Créativité, Ouverture d'esprit]
+expertise_scientifique: Pluridisciplinaire
+compétences_sociales: [Curiosité, Relationnel, Confiance en soi]
+compétences_transférables: [Capacité d'analyse, Capacité d'innovation, Capacité de synthèse, Formuler un problème, Élaborer des solutions, Esprit critique]
 ---
 
 Dans le cadre de ma thèse, j'ai beaucoup exploré le domaine de la **Free Monad** (ou "monade libre" en français). C'est le sujet principal abordé au cours de ma thèse. J'ai passé plusieurs semaines avec mon co-encadrant à lire les papiers du domaine et essayer de comprendre comment ça fonctionne et comment on pourra faire le lien avec les thématiques de mon sujet de thèse.
 
-Au début, on s'est aussi servis de ce mini projet pour que je puisse prendre en main l'<u>assistant de preuve <b>Coq</b></u>. À force de faire évoluer ce mini-projet. Mon directeur de thèse m'a proposé de **collaborer avec des étudiants** venant faire leur stage dans notre équipe afin d'avancer de manière un peu plus étendue dans les différentes collaborations scientifiques faisables, j'ai donc fait évoluer ce projet afin d'arriver à un cours pour les différents étudiants qui passeraient par là au cours de ma thèse. 
+Au début, on s'est aussi servis de ce mini projet pour que je puisse prendre en main l'<u>assistant de preuve <b>Coq</b></u>. À Force de faire évoluer ce mini-projet. Mon directeur de thèse m'a proposé de **collaborer avec des étudiants** venant faire leur stage dans notre équipe afin d'avancer de manière un peu plus étendue dans les différentes collaborations scientifiques faisables, j'ai donc fait évoluer ce projet afin d'arriver à un cours pour les différents étudiants qui passeraient par là au cours de ma thèse. 
 
 L'intéret de développer moi même un cours/tutoriel pour les différents étudiants (en projet ou stagiaires) est aussi de me former sur l'aspect **pédagogique et transmission de connaissances**. Le cours a été développé en même temps que le premier étudiant présent le suivait. Grâce à lui, j'ai assez vite pu trouver des points de faiblesses dans mes explications que j'ai pu oublier lors de mon premier développement. 
 

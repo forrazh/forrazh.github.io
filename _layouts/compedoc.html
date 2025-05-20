@@ -44,4 +44,67 @@ layout: page
   <div class="content">
     {{ page.content }}
   </div>
+
+  <style>
+.bubbles-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.bubble-group {
+  flex: 1 1 30%;
+}
+
+.bubbles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.bubble {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 20px;
+  font-size: 14px;
+  display: inline-block;
+  white-space: nowrap;
+  transition: transform 0.2s ease;
+}
+
+.bubble:hover {
+  transform: scale(1.05);
+}
+</style>
+
+{% assign skill_types = "meta_compétences,compétences_transférables,qualités,expertise_scientifique,compétences_sociales,compétences_transférables" | split: "," %}
+{% assign all_skills = site.data.skills %}
+
+<div class="skills-bubbles">
+  {% for type in skill_types %}
+    {% assign selected = page[type] %}
+    {% if selected %}
+      <div class="skill-group">
+        <h3>{{ type | replace: "_", " " | capitalize }}</h3>
+        <div class="bubbles">
+          {% for name in selected %}
+            {% assign skill = all_skills | where: "title", name | where: "type", type | first %}
+            {% if skill %}
+              <div class="bubble" style="background-color: {{ skill.color }}">
+                {{ skill.title }}
+              </div>
+            {% else %}
+              <div class="bubble missing">
+                {{ name }}
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
 </div>
